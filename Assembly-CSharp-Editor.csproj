@@ -47,12 +47,15 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Editor\Test1\Editor_Test1.cs" />
+     <Compile Include="Assets\Editor\Test10\Editor_Test10.cs" />
+     <Compile Include="Assets\Editor\Test12\Editor_Test12.cs" />
      <Compile Include="Assets\Editor\Test2\Editor_Test2.cs" />
      <Compile Include="Assets\Editor\Test3\Editor_Test3.cs" />
      <Compile Include="Assets\Editor\Test4\Editor_Test4.cs" />
      <Compile Include="Assets\Editor\Test5\Editor_Test5.cs" />
      <Compile Include="Assets\Editor\Test6\Editor_Test6.cs" />
      <Compile Include="Assets\Editor\Test8\MyEditor_Test8.cs" />
+     <Compile Include="Assets\Editor\Test9\Editor_Test9_Drawer.cs" />
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -109,9 +112,6 @@
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
- <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

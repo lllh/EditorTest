@@ -47,8 +47,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Test1\Test1.cs" />
+     <Compile Include="Assets\Scripts\Test11\Test11.cs" />
      <Compile Include="Assets\Scripts\Test3\Test3.cs" />
      <Compile Include="Assets\Scripts\Test4\Test4.cs" />
+     <Compile Include="Assets\Scripts\Test9\Test9.cs" />
+     <Compile Include="Assets\Scripts\Test9\Test9_Attribute.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
